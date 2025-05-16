@@ -131,7 +131,7 @@ export default function Contact() {
                   <div className="flex items-center">
                     <span className="text-primary mr-3">✉</span>
                     <a href="mailto:contact@agriconnect.in" className="text-primary hover:underline">
-                      contact@agriconnect.in
+                      shuklaprankur27@gmail.com
                     </a>
                   </div>
                 </CardContent>

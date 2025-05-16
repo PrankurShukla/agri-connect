@@ -19,7 +19,7 @@ const solutions: Solution[] = [
     description: "App-based system for small farmers to rent equipment like tractors, drones, and threshers at affordable rates.",
     problem: "Problem #1: Fragmented and small land holdings make it uneconomical to own large equipment.",
     impact: "Currently in development",
-    imageSrc: "https://images.unsplash.com/photo-1504387432042-8aca549e4729?auto=format&fit=crop&w=400&h=400",
+    imageSrc: "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&w=400&h=400",
     imageAlt: "Agricultural equipment sharing service",
   },
   {
@@ -28,7 +28,7 @@ const solutions: Solution[] = [
     description: "Smart irrigation systems with weather forecasting, soil moisture sensors, and solar-powered pumps.",
     problem: "Problem #2: Dependence on monsoon and inadequate irrigation leading to crop failures.",
     impact: "30% water usage reduction",
-    imageSrc: "https://images.unsplash.com/photo-1559935393-dbc719262ed1?auto=format&fit=crop&w=400&h=400",
+    imageSrc: "https://img.freepik.com/premium-photo/solarpowered-irrigation-system-wallpaper_1257317-15570.jpg?auto=format&fit=crop&w=400&h=400",
     imageAlt: "Smart irrigation system with solar panels",
   },
   {
@@ -37,7 +37,7 @@ const solutions: Solution[] = [
     description: "E-commerce platform for verified seeds, fertilizers, and pesticides delivered directly to farmers' villages.",
     problem: "Problem #3: Lack of access to quality agricultural inputs and exploitation by local vendors.",
     impact: "15-20% cost savings for farmers",
-    imageSrc: "https://images.unsplash.com/photo-1512428813834-c702c7702b78?auto=format&fit=crop&w=400&h=400",
+    imageSrc: "https://th.bing.com/th/id/OIP.0fp6jYqFxUGAc2zvS1P8qwHaEH?cb=iwp2&rs=1&pid=ImgDetMain?auto=format&fit=crop&w=400&h=400",
     imageAlt: "Digital marketplace for agricultural inputs",
   },
   {
@@ -55,7 +55,7 @@ const solutions: Solution[] = [
     description: "Pay-per-use cold storage facilities in rural areas to reduce post-harvest losses with mobile app booking.",
     problem: "Problem #5: Post-harvest losses of 20-30% due to poor storage and transport facilities.",
     impact: "25% reduction in post-harvest losses",
-    imageSrc: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?auto=format&fit=crop&w=400&h=400",
+    imageSrc: "https://th.bing.com/th/id/OIP.cmHA3zItO5KibA4HXJsrYgHaE8?cb=iwp2&rs=1&pid=ImgDetMain?auto=format&fit=crop&w=400&h=400",
     imageAlt: "Cold storage facility for agricultural produce",
   },
   {

@@ -16,32 +16,32 @@ type TeamMember = {
 
 const teamMembers: TeamMember[] = [
   {
-    name: "Vikram Sharma",
+    name: "Prankur Shukla",
     role: "Founder & CEO",
-    bio: "Former agricultural extension officer with 10+ years of experience working with rural farming communities.",
-    imageSrc: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150",
+    bio: "Like to solve challengin real world problems using technology.",
+    imageSrc: "https://res.cloudinary.com/dwalwid2h/image/upload/v1745081304/hxpasziowpauxnrma7yh.jpg?auto=format&fit=crop&w=150&h=150",
     social: {
-      linkedin: "#",
+      linkedin: "https://in.linkedin.com/in/prankur-shukla-07bb18241",
       twitter: "#",
     },
   },
   {
-    name: "Priya Mehta",
+    name: "Mubashir Shariq",
     role: "CTO",
-    bio: "Tech veteran with previous experience at leading agricultural technology startups in India and globally.",
-    imageSrc: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150",
+    bio: "Tech veteran with previous experience at leading  technology startups in India and globally.",
+    imageSrc: "https://res.cloudinary.com/dwalwid2h/image/upload/v1747386000/Screenshot_2025-05-16_142918_gimbme.png?auto=format&fit=crop&w=150&h=150",
     social: {
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/mubashir-shariq-5953a4225",
       github: "#",
     },
   },
   {
-    name: "Dr. Arjun Singh",
-    role: "Agricultural Expert",
-    bio: "Ph.D. in Agricultural Sciences with research focus on sustainable farming practices for small landholders.",
-    imageSrc: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150",
+    name: "Vikesh Prem Sharma",
+    role: "Founding Engineer",
+    bio: "Expert in doing fundamental research and deciding the best tech stack to deal with innovative solutions in the agriculture field.",
+    imageSrc: "https://res.cloudinary.com/dwalwid2h/image/upload/v1747386197/Screenshot_2025-05-16_143259_lcg6hf.png?auto=format&fit=crop&w=150&h=150",
     social: {
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/vikashsprem/",
       website: "#",
     },
   },
