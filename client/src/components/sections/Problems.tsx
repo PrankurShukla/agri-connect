@@ -1,6 +1,18 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { PieChart, CloudRain, Sprout, BadgeDollarSign, Warehouse, BanknoteIcon } from "lucide-react";
+import { 
+  PieChart, 
+  CloudRain, 
+  Sprout, 
+  BadgeDollarSign, 
+  Warehouse, 
+  BanknoteIcon,
+  Umbrella, 
+  GraduationCap, 
+  Thermometer, 
+  Users, 
+  FileText
+} from "lucide-react";
 
 type Problem = {
   id: number;
@@ -52,6 +64,41 @@ const problems: Problem[] = [
     description: "Formal credit is hard to get. Informal lenders charge high interest rates.",
     impact: "Debt cycles and inability to invest",
     icon: <BanknoteIcon className="h-5 w-5" />,
+  },
+  {
+    id: 7,
+    title: "Insufficient Crop Insurance",
+    description: "PMFBY and other schemes often have delayed claims and poor awareness.",
+    impact: "No compensation after crop failure",
+    icon: <Umbrella className="h-5 w-5" />,
+  },
+  {
+    id: 8,
+    title: "Technical Knowledge Gap",
+    description: "Many farmers are unaware of modern farming techniques and best practices.",
+    impact: "Low yield, inefficient farming methods",
+    icon: <GraduationCap className="h-5 w-5" />,
+  },
+  {
+    id: 9,
+    title: "Climate Change Impact",
+    description: "Increased frequency of floods, droughts, and unseasonal rains.",
+    impact: "Crop failure and long-term sustainability issues",
+    icon: <Thermometer className="h-5 w-5" />,
+  },
+  {
+    id: 10,
+    title: "Labor Shortage",
+    description: "Young people move to cities; older generation left to handle farms.",
+    impact: "Labor shortage during critical farming periods",
+    icon: <Users className="h-5 w-5" />,
+  },
+  {
+    id: 11,
+    title: "Complex Government Schemes",
+    description: "Many don't know how to apply for subsidies, loans, or government benefits.",
+    impact: "Missed opportunities for support",
+    icon: <FileText className="h-5 w-5" />,
   },
 ];
 
